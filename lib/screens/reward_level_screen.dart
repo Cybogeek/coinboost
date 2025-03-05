@@ -29,8 +29,8 @@ class RewardLevelScreen extends StatelessWidget {
                     color: Theme.of(context).primaryColor,
                   ),
                 ),
-                SizedBox(
-                  height: MediaQuery.of(context).size.height * 0.8,
+                Expanded(
+                  // height: MediaQuery.of(context).size.height * 0.8,
                   child: ListView(
                     children:
                         levels
