@@ -1,6 +1,6 @@
 # CoinBoost - Earning App
+<img width="219" alt="LOGO" src="https://github.com/user-attachments/assets/c598c15c-5376-4a2a-baa3-f7cffca0241a" />
 
-![CoinBoost Logo](https://via.placeholder.com/150) <!-- Replace with your app logo -->
 
 **CoinBoost** is a mobile earning app built with **Flutter** and **Dart**, designed to help users earn rewards by completing tasks such as reading news, playing games, and watching ads. The app integrates **Google Ads** to provide additional rewards through **rewarded ads**. It is a scalable and user-friendly platform for earning rewards while engaging with content.
 
@@ -33,7 +33,12 @@
 
 | Home Screen | Daily Rewards | Task Show Page |
 |-------------|---------------|----------------|
-| ![Home Screen](https://via.placeholder.com/300) | ![Daily Rewards](https://via.placeholder.com/300) | ![Task Show Page](https://via.placeholder.com/300) |
+| ![Screenshot_1741184927](https://github.com/user-attachments/assets/e435f2bc-7be4-4461-8e63-a2adc3b6e187) | ![Screenshot_1741184722](https://github.com/user-attachments/assets/34aa584a-f655-4e8f-8884-5651fb02154f)| ![Screenshot_1741184751](https://github.com/user-attachments/assets/df806124-72c0-4192-89b0-7d0a13b96070) |
+
+
+![Screenshot_1741184729](https://github.com/user-attachments/assets/7e86a056-ea0d-48a9-9ac7-6b7f9ae606b9)
+
+
 
 ---
 
